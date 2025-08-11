@@ -1,0 +1,7 @@
+opencv-python
+deepface
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
